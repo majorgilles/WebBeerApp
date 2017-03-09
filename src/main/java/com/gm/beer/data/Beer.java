@@ -1,4 +1,4 @@
-package com.gm.beer;
+package com.gm.beer.data;
 
 /**
  * Basic Beer POJO

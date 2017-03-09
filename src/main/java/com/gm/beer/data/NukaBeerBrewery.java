@@ -1,4 +1,4 @@
-package com.gm.beer;
+package com.gm.beer.data;
 
 /**
  * Created by gm on 27.02.17.

@@ -1,5 +1,9 @@
 package com.gm.beer;
 
+import com.gm.beer.data.Beer;
+import com.gm.beer.data.Brewery;
+import com.gm.beer.data.CaraPisseBrewery;
+import com.gm.beer.data.NukaBeerBrewery;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
